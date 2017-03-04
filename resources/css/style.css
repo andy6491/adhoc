@@ -128,3 +128,17 @@ nav ul {
 .image {
   margin-bottom: 2rem;
 }
+
+/*footer*/
+footer {
+  background-color: #e9ebeb;
+  padding-top: 2.625rem;
+  padding-bottom: 2rem;
+  text-align: center;
+}
+
+.copyright {
+  font-size: .75rem;
+  color: #212123;
+  padding-top: 1.5rem;
+}
