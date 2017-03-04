@@ -87,7 +87,7 @@ nav ul {
 }
 
 .header-line h2 {
-  font-family: "Arbutus";
+  font-family: "Arbutus Slab";
   font-size: 3rem;
   text-align: center;
   position: relative;
@@ -99,4 +99,32 @@ nav ul {
 .image-container {
   text-align: center;
   margin-bottom: 3rem;
+}
+
+/*team*/
+.team{
+  background-color: #4a4a4a;
+}
+
+.line {
+  display: block;
+  margin-bottom: 7.25rem;
+  color: white;
+  font-family: "Roboto";
+}
+
+.team h2 {
+  font-family: "Arbutus Slab";
+  font-size: 3rem;
+  color: white;
+  text-align: center;
+}
+
+.team strong{
+  color: white;
+  font-family: "Roboto";
+}
+
+.image {
+  margin-bottom: 2rem;
 }
